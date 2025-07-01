@@ -33,5 +33,7 @@ This project is designed to build an intelligent gym assistant using computer vi
 - ✅ Posture accuracy feedback
 - ✅ Modular design for adding new exercises easily
 
-## 📁 Folder Structure
+Project By-
+Hriday Patel
+Anshu Trivedi
 
