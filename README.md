@@ -34,6 +34,6 @@ This project is designed to build an intelligent gym assistant using computer vi
 - ✅ Modular design for adding new exercises easily
 
 Project By-
-Hriday Patel
+Hriday Patel and
 Anshu Trivedi
 
